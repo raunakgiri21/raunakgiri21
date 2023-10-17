@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently mastering **ReactJS, MERN Stack Development**
 
-- 📫 How to reach me **raunakgiri21@gmail.com**
+- 📫 Reach me out at **raunakgiri21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
