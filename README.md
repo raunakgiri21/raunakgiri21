@@ -26,15 +26,6 @@
 
 ---
 
-## 📊 GitLab Activity
-
-⚡ Most of my production work is maintained on GitLab (private repositories).
-
-<!-- Replace this with your deployed API -->
-![GitLab Stats](https://gitlab-stats-api.vercel.app/api/gitlab?user=raunakgiri)
-
----
-
 ## 🧠 Work Summary
 
 - Worked extensively on **private repositories** involving backend systems, REST APIs, and full-stack applications
